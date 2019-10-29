@@ -1,6 +1,16 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 ## Stack Overflow Question Tag Prediction 
 - Predict tags of StackOverflow posts using OneVsRestClassifier.
+--------------------------------------------------------------------
+<div align="center">
+ &#10077; Want to make search even more faster ? Tags are the solution you likely to looking for. &#10078;
+ </div>
+
+ 
+
+### Technology Stack
+- Backend Framework - [Flask](https://palletsprojects.com/p/flask/)
+- Frontend Framework - [React Native](https://facebook.github.io/react-native/)
 
 ### Deployment Instructions
 - Install all the packages as specified in the 
@@ -30,6 +40,7 @@
   ]
 }` 
 
+- [Frontend Repository](https://github.com/joshiadvait8/overCode)
 
 ### Contributors
 - [@ssvas1997](https://github.com/ssvas1997)
