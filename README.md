@@ -6,6 +6,8 @@
 - Install all the packages as specified in the 
 [Requirements File](https://github.com/ssvas1997/Stack-Overflow-Tag-Prediction/blob/master/requirements.txt "requirements.txt") 
 
+- Download the [Dataset](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data)
+
 - Execute the [StackOverflow CSV Preprocessing.py](https://github.com/ssvas1997/Stack-Overflow-Tag-Prediction/blob/master/StackOverflow_CSV_Preprocessing.py "stackoverflow preprocess") to clean the posts i.e removing the stopwords
 
 - This would generate 3 files:
@@ -27,6 +29,7 @@
     "python"
   ]
 }` 
+
 
 ### Contributors
 - [@ssvas1997](https://github.com/ssvas1997)
