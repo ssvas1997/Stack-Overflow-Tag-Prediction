@@ -3,7 +3,7 @@
 - Predict tags of StackOverflow posts using OneVsRestClassifier.
 --------------------------------------------------------------------
 <div align="center">
- &#10077; Want to make search even more faster ? Tags are the solution you likely to look for. &#10078;
+ &#10077; Want to make search even more faster ? Tags are the solution you are likely to look for. &#10078;
  </div>
 
  
